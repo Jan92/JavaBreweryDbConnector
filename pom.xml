@@ -90,7 +90,7 @@
 		<dependency>
 			<groupId>com.google.inject</groupId>
 			<artifactId>guice</artifactId>
-			<version>3.0_no-aop</version>
+			<version>3.0-no_aop</version>
 		</dependency>
 		<dependency>
 			<groupId>com.sun.jersey</groupId>
